@@ -1,2 +1,2 @@
-# PetVision-SVM
-The SVM-based image classification model built to distinguish between cat and dog images. The workflow includes dataset preprocessing, feature extraction, model training, evaluation, and predictions. The goal of this project is to showcase how traditional machine learning algorithms like SVM can be effectively applied to visual data.
+# Mallcutomer-Kmeansclustering
+This project uses the K-Means clustering algorithm to segment mall customers based on their annual income and spending score. By applying the Elbow Method and clustering customers into meaningful groups, the project helps identify patterns such as high spenders, low spenders, and average customers. The results support better marketing decisions and customer behavior analysis.
